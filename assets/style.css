@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 90%;
+}
+.add-slide-btn{
+    width: 200px;
+}
+.carousel {
+    height: 900px;
+    margin-bottom: 50px;
+  }
+  
+.carousel-inner {
+    height: 100%;
+}
+  
+.carousel-inner img {
+    object-position: top center;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+  
